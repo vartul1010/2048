@@ -1,0 +1,75 @@
+* {
+	text-align: center;
+}
+
+body {
+	background-color: #faf8ef
+}
+
+p {
+	margin-bottom: 5%;
+}
+
+table {
+	margin: auto;
+}
+
+td {
+	width: 75px;
+	height: 75px;
+	border: 1px solid black;
+}
+
+td span {
+	display: block;
+	height: 100%;
+	line-height: 75px;
+}
+
+.two {
+	background-color: #eee4da;
+}
+
+.four {
+	background-color: #ede0c8;
+}
+
+.eight {
+	background-color: #f2b179;
+}
+
+.sixteen {
+	background-color: #f59563; 
+}
+
+.thirty-two {	
+	background-color: #f67c5f;
+}
+
+.sixty-four {
+	background-color: #f65e3b;
+}
+
+.one-twenty-eight {
+	background-color: #edcf72;
+}
+
+.two-fifty-six {
+	background-color: #edcc61;
+}
+
+.five-hundred-twelve {
+	background-color: #edc850;
+}
+
+.thousand-twenty-four {
+	background-color: #edc53f;
+}
+
+.two-thousand-forty-eight {
+	background-color: #edc22e;
+}
+
+.four-thousand-ninety-six {
+	background-color: #3c3a32;
+}
